@@ -1,0 +1,4 @@
+---
+
+ca_certificates_path: /usr/local/share/ca-certificates
+ca_certificates_handler: /usr/sbin/update-ca-certificates
